@@ -2,3 +2,8 @@ pandas
 numpy
 mediapipe
 opencv-python
+pyautogui
+matplotlib
+flask
+flask-cors
+numpy
